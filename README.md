@@ -112,8 +112,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
