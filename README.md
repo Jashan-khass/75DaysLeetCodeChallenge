@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2751-robot-collisions](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [2751-robot-collisions](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
+## Simulation
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
