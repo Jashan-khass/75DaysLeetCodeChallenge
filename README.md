@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Design
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Monotonic Stack
 |  |
 | ------- |
