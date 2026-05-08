@@ -1,0 +1,35 @@
+class Solution:
+    def checkInclusion(self, s1, s2):
+        if len(s1) > len(s2):
+            return False
+
+        need = [0] * 26
+        window = [0] * 26
+
+        for c in s1:
+            need[ord(c) - ord('a')] += 1
+
+        left = 0
+
+        for right in range(len(s2)):
+            window[ord(s2[right]) - ord('a')] += 1
+
+            if right - left + 1 > len(s1):
+                window[ord(s2[left]) - ord('a')] -= 1
+                left += 1
+
+            if window == need:
+                return True
+
+        return False
+
+
+obj = Solution()
+
+test_cases = [
+    ("ab", "eidbaooo"),
+    ("ab", "eidboaoo")
+]
+
+for s1, s2 in test_cases:
+    print("s1 =", s1, ", s2 =", s2, "->", obj.checkInclusion(s1, s2))
