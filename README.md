@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2573-find-the-string-with-lcp](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Design
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jashan-khass/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
